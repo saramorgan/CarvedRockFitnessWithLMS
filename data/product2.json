@@ -1,0 +1,160 @@
+{
+  "records": [
+      {
+          "attributes": {
+              "type": "Product2",
+              "referenceId": "ProdRef1"
+          },
+          "Family": "Boots",
+          "MSRP__c": 89.99,
+          "Name": "Mens Hiking Boots",
+          "Picture_URL__c": null,
+          "Description": "Make footprints on your favorite trail in our Mt. Maddsen waterproof hiking boots. Keeping your feet dry in rugged style, these leather hikers take on any terrain and look great with your performance hiking gear and with jeans and a tee.",
+          "ProductCode": "M24403"
+      },
+      {
+          "attributes": {
+                "type": "Product2",
+                "referenceId": "ProdRef2"
+          },
+          "Family": "Boots",
+          "MSRP__c": 49.99,
+          "Name": "Womens Hiking Sandles",
+          "Picture_URL__c": null,
+          "Description": "Ready for sand, boardwalks and grassy backyard BBQs, the Malibu Waves women's sandals feature easy-to-wear styling that goes with shorts, skirts, dresses and summer adventures.",
+          "ProductCode": "W28999"
+      },
+      {
+        "attributes": {
+              "type": "Product2",
+              "referenceId": "ProdRef3"
+        },   
+        "Family": "Climbing Gear",
+        "MSRP__c": 179.95,
+        "Name": "Backpack with gear",
+        "Picture_URL__c": "https://saramorgandotnet.files.wordpress.com/2020/12/backpackwattachedgear-1.png?w=500",
+        "Description": "Meet the pack that does it all. The Flex Capacitor family of packs feature adjustable volume to handle both short and long hauls, and a Y flex suspension system that carries above their weight class.",
+        "ProductCode": "2540L"
+      },
+      {
+        "attributes": {
+              "type": "Product2",
+              "referenceId": "ProdRef4"
+        },
+        "Family": "Boots",
+        "MSRP__c": 120,
+        "Name": "Mens Euro Hiker Boots",
+        "Picture_URL__c": "https://saramorgandotnet.files.wordpress.com/2020/12/euroboots-1.png?w=1000",
+        "Description": "There's no better (or more handsome) boot for warmer-weather hikes and everyday adventures. Our classic leather Euro Hiker boots are cushiony and built to grip terrain, whether it's a rocky trail, a shag carpet or a city sidewalk.",
+        "ProductCode": "M25666"
+      },
+      {
+        "attributes": {
+              "type": "Product2",
+              "referenceId": "ProdRef5"
+        },
+        "Family": "Boots",
+        "MSRP__c": 90,
+        "Name": "Womens Euro Hiker Boots",
+        "Picture_URL__c": null,
+        "Description": "The Euro Hiker has been a longtime customer favorite, and our women's version is ready to slay the season. Though these are on point for trail fashion, we love wearing these in the city with contrasting-color layers for a chic outdoor look.",
+        "ProductCode": "W83645"
+      },
+      {
+        "attributes": {
+              "type": "Product2",
+              "referenceId": "ProdRef6"
+        },
+        "Family": "Climbing Gear",
+        "MSRP__c": 109.99,
+        "Name": "Far Out Hiking Backpack",
+        "Picture_URL__c": "https://saramorgandotnet.files.wordpress.com/2020/12/backpack.png?w=760",
+        "Description": "Gear up for your next big hike with the JanSport Far Out 55L Hiking Backpack. Constructed with ripstop polyester material, this backpack withstands the wear and tear from hiking in the elements. The sizeable main compartment gives you plenty of storage space for your gear, including a full-size sleeping bag. The padded air-mesh harness system provides breathable comfort, and the trekking pole and ice axe attachment points allow you to safely carry all of your supplies.",
+        "ProductCode": "55L567"
+      },
+      {
+        "attributes": {
+              "type": "Product2",
+              "referenceId": "ProdRef7"
+        },
+        "Family": "Climbing Gear",
+        "MSRP__c": 59.99,
+        "Name": "Climbing Helmet/Light",
+        "Picture_URL__c": "https://saramorgandotnet.files.wordpress.com/2020/12/shutterstock_64998481.jpg?w=1024",
+        "Description": "Comfortable enough to wear all day and in any conditions, the C.A.M.P. USA Storm helmet provides necessary protection for any type of climbing or mountaineering. Includes light.",
+        "ProductCode": "16890"
+      },
+      {
+        "attributes": {
+              "type": "Product2",
+              "referenceId": "ProdRef8"
+        },
+        "Family": "Climbing Gear",
+        "MSRP__c": 64.95,
+        "Name": "Basic Hiking Helmet Set",
+        "Picture_URL__c": "https://saramorgandotnet.files.wordpress.com/2020/12/shutterstock_569026084.jpg?w=1024",
+        "Description": "Co-molded foam with low-profile, lightweight polycarbonate shell. One-handed adjustment dial with adjustable chin strap. Clips for headlamp",
+        "ProductCode": "67543"
+      },
+      {
+        "attributes": {
+              "type": "Product2",
+              "referenceId": "ProdRef9"
+        },
+        "Family": "Climbing Gear",
+        "MSRP__c": 259.95,
+        "Name": "Ice Tools",
+        "Picture_URL__c": "https://saramorgandotnet.files.wordpress.com/2020/12/shutterstock_236845636.jpg?w=1024",
+        "Description": "The adjustable FlickLock® pommel acts as a secondary grip position for ice climbing and cragging and easily slides up the shaft for choking up on low-angle snow slopes.",
+        "ProductCode": "89765"
+      },
+      {
+        "attributes": {
+              "type": "Product2",
+              "referenceId": "ProdRef10"
+        },
+        "Family": "Climbing Gear",
+        "MSRP__c": 59.95,
+        "Name": "Ice screws",
+        "Picture_URL__c": "https://saramorgandotnet.files.wordpress.com/2020/12/shutterstock_362683778.jpg?w=1024",
+        "Description": "Our fastest placing ice screws with advanced tooth geometry and complete stainless steel construction, Express Ice Screws feature large, color-coded crank knobs for incredibly fast placements.",
+        "ProductCode": "876555"
+      },
+      {
+        "attributes": {
+              "type": "Product2",
+              "referenceId": "ProdRef11"
+        },
+        "Family": "Climbing Gear",
+        "MSRP__c": 8.96,
+        "Name": "RockLock clip",
+        "Picture_URL__c": null,
+        "Description": "The largest belay and rappel locker from Black Diamond, the versatile RockLock Screwgate Carabiner features a keylock nose and is Munter Hitch compatible.",
+        "ProductCode": "8765688"
+      },
+      {
+        "attributes": {
+              "type": "Product2",
+              "referenceId": "ProdRef12"
+        },
+        "Family": "Kayaks",
+        "MSRP__c": 349,
+        "Name": "Manatee Kayak",
+        "Picture_URL__c": "https://saramorgandotnet.files.wordpress.com/2020/12/shutterstock_495259978-2.jpg?w=1024",
+        "Description": "kayak is super-stable, fun, maneuverable and now even more affordable. Plus, it's loaded with features typically seen on more expensive kayaks, including padded seats and adjustable foot rests.",
+        "ProductCode": "14444TK"
+      },
+      {
+        "attributes": {
+              "type": "Product2",
+              "referenceId": "ProdRef13"
+        },
+        "Family": "Kayaks",
+        "MSRP__c": 319.99,
+        "Name": "10-foot Kayak",
+        "Picture_URL__c": "https://saramorgandotnet.files.wordpress.com/2020/12/10footkayak.png?w=1024",
+        "Description": "Our kayak is the perfect size for one adult, you could even bring along plenty of extra gear without overloading it.",
+        "ProductCode": "122TK"
+      }
+  ]
+}
