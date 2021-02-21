@@ -1,18 +1,13 @@
-# Salesforce DX Project: Next Steps
+# Apex Hours Talk on February 20, 2021
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+Here is a link to the recorded video from that day: [Apex Hours Recording](https://www.youtube.com/watch?v=v8NCrpFjJ9w&ab_channel=SalesforceApexHours)
 
-## How Do You Plan to Deploy Your Changes?
+## Agenda for that talk
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+1. Why use LWC’s in Communities?
+2. Developing multiple LWC’s that communicate
+3. Configuring components to work in Experience Builder
+4. Working with Apex and wire adapter
+5. Adding Navigation to a component
+6. Working with Lightning Message Service
 
-## Configure Your Salesforce DX Project
-
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
-
-## Read All About It
-
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
